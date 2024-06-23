@@ -1,0 +1,90 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMHftgSCBlvyjxYphi4gLqDC_62WWvZvyy1EBuh=w1080-h624-n-k-no",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge.",
+          "timeZone": "Australia/Sydney"
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQPKaLs2v9DXfHHowOdM-RtOV5FND1KVEs4GjsJAE7rOBXNWuw_RFu8B3bYO60brOSAYh69P5nYl9AaJqR1LKLW8mxbYaERfXHxw8Z2Wg",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods.",
+          "timeZone": "Australia/Melbourne"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "https://lh5.googleusercontent.com/proxy/0diPJjN9qaBKIKjeTUrLa0xZe_U54nyoPCCgX06VT_jXy4aA2Dpxw4uBxvDXdAxQl5cR_rY3ehxQXpggIiusgS-IgDnR6KxuspMjsNH1ybaz7ioWvtwZZH_4OCZ8oQpeaGf5_VRMyR8pbeDTAev1qIePUCD6Vw=w1080-h624-n-k-no",
+          "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture.",
+          "timeZone": "Asia/Tokyo"
+        },
+        {
+          "name": "Kyoto, Japan",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTuEhtOubUfbl9TujTUK4CtYQm1TOaHwl7QSm_RK3Bo63fqbDoUSDjzFUR0510QH_U6YIkbm9uFJJCQolOELPisvEO69sjJyTB4WKPQRA",
+          "description": "Known for its historic temples, gardens, and traditional tea houses.",
+          "timeZone": "Asia/Tokyo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Brazil",
+      "cities": [
+        {
+          "name": "Rio de Janeiro, Brazil",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQrGpngtej0ix8SJNwI3RlI1O5WyUdGzIFsB59GEcCmUO5bx0Kn5aWs2U2H3MFV5zSSpEomhFxJHjgB3Nrhawkcrnxo99oWfbmxSjEB94M",
+          "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks.",
+          "timeZone": "America/Sao_Paulo"
+        },
+        {
+          "name": "São Paulo, Brazil",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQkTAm1TAgG3wK9B4ivZ4llgms2JbKWg1KxF-OKkAX7hLa5WGzENlxrvsE_KwJca3cBxjp21q2QC9B2D2ClhhArL65nThCit_fnFEznYA",
+          "description": "The financial hub with diverse culture, arts, and a vibrant nightlife.",
+          "timeZone": "America/Sao_Paulo"
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRrh4lRUdtZAmB8quoAZ2o--1eB5iSSi-SXzJL4Eg_dlKsgTvbwhvFZghUsyPsjqiHpCvJpDkvQ-hq2F1QsLo68LmR5J5NGcH2EPUKSxQ",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world.",
+      "timeZone": "Asia/Phnom_Penh"
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTPV5VEr6CfEbvJfW9je0tr1G9egKIYNrjcjKC0sqz6txVzI1kqzScg7QPkZgDJfh5MDKcZjYkIbk0DS69v_ANw5XNaA2kwsxtTsHWLzyo",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture.",
+      "timeZone": "Asia/Kolkata"
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcShXhIeNi8Lfu6L5sJdSxywEr1YVHGXTRYditV0B6Ar7YvdI9tprF8rk8NE_YSc5IQIZy8ltw1VrGzjvBkAoq7zdolCMwfFhbGKJUIOUQ",
+      "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows.",
+      "timeZone": "Pacific/Tahiti"
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcR5q5BR88KjvVVkughR1u1AzrCDDDiMQ8XsXHBcPRm3drU_ZQiKO5wbq2BWiBMhl915LP7WADXVvRu2HJlbfqU8WEqxSu9Qyknj3HbEZQ",
+      "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views.",
+      "timeZone": "America/Sao_Paulo"
+    }
+  ]
+}
